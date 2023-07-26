@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.denomination-item {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.button {
+  background-color: #382f5a;
+  border-radius: 5px;
+  border: 1 px solid white;
+  color: #c4c4c4;
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px;
+  outline: none;
+  cursor: pointer;
+  width: 250px;
+  height: 75px;
+  border-color: #c4c4c4;
+  margin-right: 10px;
+}
